@@ -1,0 +1,9 @@
+check_interval_seconds: 60
+request_timeout_seconds: 5
+endpoints:
+  - name: GitHub API
+    url: https://api.github.com
+  - name: JSONPlaceholder
+    url: https://jsonplaceholder.typicode.com/posts/1
+  - name: Example Website
+    url: https://example.com
